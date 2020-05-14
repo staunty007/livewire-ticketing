@@ -3,19 +3,19 @@ Livewire Ticketing is a mini support ticketing system developed with Laravel Liv
 
 //to run
 
-# composer install
+1. composer install
 
-# cp .env.example .env
+2. cp .env.example .env
 
-# php artisan key:generate
+3. php artisan key:generate
 
-# fill your DB Credentials
+4. fill your DB Credentials
 
-# update your APP_URL
+5. update your APP_URL
 
-# php artisan migrate
+6. php artisan migrate
 
-# php artisan storage:link
+7. php artisan storage:link
 
 
 
